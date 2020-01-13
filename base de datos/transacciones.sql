@@ -1,0 +1,7 @@
+--INSERTANDO CIUDADES
+BEGIN
+PRO_CIUDAD('Patzite','Quiché','Guatemala');
+END;
+
+SELECT *FROM CIUDAD;
+COMMIT;
